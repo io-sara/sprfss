@@ -2,7 +2,7 @@
 <div align="center">
 
 ## 🕹️ Sara Pérez Rodríguez 
-### Desarrolladora en formación | Seguridad Informática
+### Web Developer| IT
 ---
 <table border="0">
   <tr>
